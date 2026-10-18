@@ -4,7 +4,7 @@
 # Group:     <IM 1-2>
 # Course:    Programming fundamentals
 # Topic:     Collections in Python: list, tuple and dict
-# GitHub repository: <https://github.com/usuario/repositorio>
+# GitHub repository: <https://github.com/RzSolo/-Manejo-de-Listas-Tuplas-y-Diccionarios-en-Python>
 
 # EXECUTIVE SUMMARY
 
