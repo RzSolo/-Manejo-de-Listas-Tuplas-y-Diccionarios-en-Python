@@ -2,7 +2,7 @@
 # Name:      <José Luis Guillen González>
 # Student ID:       <2630455>
 # Group:     <IM 1-2>
-# Course:    Programming fundamentals
+# Course:    Programming Methodologies
 # Topic:     Collections in Python: list, tuple and dict
 # GitHub repository: <https://github.com/RzSolo/-Manejo-de-Listas-Tuplas-y-Diccionarios-en-Python>
 
