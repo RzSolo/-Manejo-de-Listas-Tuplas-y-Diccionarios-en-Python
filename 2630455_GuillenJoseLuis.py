@@ -37,7 +37,7 @@ if choice not in VALID_CHOICES:
 
 
 # =============================================================================
-# Problem 1: Shopping list basics (list operations)
+# Problem 1: Shopping list basics
 # =============================================================================
 # Description: The program starts with an initial list of products (strings)
 #   created in the code. It reads a new product and appends it at the end of
@@ -418,7 +418,7 @@ if choice == "6" or choice == "0":
 
 
 # =============================================================================
-# CONCLUSIONS (CONCLUSIONES)
+# CONCLUSIONS
 # =============================================================================
 # Las listas conviene usarlas cuando el conjunto de datos crece o se reduce,
 # porque append(), insert(), remove() y pop() permiten modificarlas con
@@ -433,7 +433,7 @@ if choice == "6" or choice == "0":
 # listas vacías, tipos correctos) evita errores en tiempo de ejecución.
 
 # =============================================================================
-# REFERENCES (REFERENCIAS)
+# REFERENCES
 # =============================================================================
 # References:
 # 1) Python Software Foundation. Python documentation - Built-in Types: list,
